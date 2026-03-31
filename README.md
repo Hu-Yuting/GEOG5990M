@@ -1,21 +1,21 @@
 # GEOG5990M Spatial data science report
-# The relationship between no-car households and public transportation usage in Leeds
+## The relationship between no-car households and public transportation usage in Leeds
 ## Project overview
 The project focuses on the spatial distribution of no-car households in Leeds, and the relationship between no-car households and public transportation usage. Using the open Census attribute data and the spatial boundary data to conduct the data search and download, data exploration, data cleaning and processing, data join and visualization at the  Middle Layer Super Output Areas (MSOA) level. And also producing a spatial and a non-spatial visualisation map to draw the conclusion.
 
 Households with no cars or vans usually rely more on public transportation. Identifying the spatial distribution of no-car households and analyzing the relationship can help understand the differences in transportation demands among different areas within the city. It can also provide a more detailed reference for allocating transportation resource and planning public service, which is of significant public good. 
 
-# Data sources
-Nomis Census data (https://www.nomisweb.co.uk):
-   - Leeds_MSOA_no_car_households (https://www.nomisweb.co.uk/datasets/c2021ts045)
+## Data sources
+### Nomis Census data (https://www.nomisweb.co.uk):
+       - Leeds_MSOA_no_car_households (https://www.nomisweb.co.uk/datasets/c2021ts045)
 
-     providing the number and percentage of households with no cars or vans
-   - Leeds_MSOA_bus_use (https://www.nomisweb.co.uk/datasets/c2021ts061)
+         providing the number and percentage of households with no cars or vans
+       - Leeds_MSOA_bus_use (https://www.nomisweb.co.uk/datasets/c2021ts061)
    
-     providing the number and percentage of people commuting using "bus, minibus or coach"
+         providing the number and percentage of people commuting using "bus, minibus or coach"
 
-ONS Geoportal:
-   - 2021 MSOA boundary data (stored in Google Drive)
+### ONS Geoportal:
+       - 2021 MSOA boundary data (stored in Google Drive)
 
 # Main variables
 The project focuses on two variables:
