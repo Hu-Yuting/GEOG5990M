@@ -7,8 +7,10 @@ The project is of significant public good. Households with no cars or vans usual
 # Data sources
 The project uses the following open datasets:
 Nomis' Census data (https://www.nomisweb.co.uk):
-   - Leeds_MSOA_no_car_households (https://www.nomisweb.co.uk/datasets/c2021ts045), used for the number and percentage of households with no cars or vans
-   - Leeds_MSOA_bus_use (https://www.nomisweb.co.uk/datasets/c2021ts061), used for the number and percentage of people commuting using "bus, minibus or coach"
+   - Leeds_MSOA_no_car_households (https://www.nomisweb.co.uk/datasets/c2021ts045),
+     used for the number and percentage of households with no cars or vans
+   - Leeds_MSOA_bus_use (https://www.nomisweb.co.uk/datasets/c2021ts061),
+     used for the number and percentage of people commuting using "bus, minibus or coach"
 ONS Geoportal:
    - 2021 MSOA boundary data (stored in Google Drive)
 
