@@ -57,6 +57,7 @@ The project focuses on two variables:
   -  The areas with a high percentage of no-car households usually rely more on public transportation.
 
 ## How to run the notebook
-  1. Open the notebook in Google Colab
-  2. Make sure the required files are available in the repository, and the large boundary file is accessible in Google Drive 
-  3. Run the notebook from top to bottom
+  1. Copy or download the GitHub repository
+  2. Make sure the required files are available in the repository, and the large boundary file is accessible in Google Drive
+  3. Open the notebook in Google Colab
+  4. Run the notebook from top to bottom
