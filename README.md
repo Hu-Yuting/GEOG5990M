@@ -1,7 +1,7 @@
-# GEOG5990M Final Project
+# GEOG5990M Spatial data science report
 # The relationship between no-car households and public transportation usage in Leeds
-# Project overview
-The project aims to identify the spatial distribution of no-car households in Leeds, and the relationship between no-car households and public transportation usage across Leeds Middle Layer Super Output Areas (MSOA). The analysis joins the open Census attribute data with the spatial boundary data to produce a spatial and a non-spatial visualisation map.
+## Project overview
+The project focuses on the spatial distribution of no-car households in Leeds, and the relationship between no-car households and public transportation usage. Using the open Census attribute data and the spatial boundary data to conduct the data search and download, data exploration, data cleaning and processing, data join and visualization at the  Middle Layer Super Output Areas (MSOA) level. And also producing a spatial and a non-spatial visualisation map to draw the conclusion.
 
 Households with no cars or vans usually rely more on public transportation. Identifying the spatial distribution of no-car households and analyzing the relationship can help understand the differences in transportation demands among different areas within the city. It can also provide a more detailed reference for allocating transportation resource and planning public service, which is of significant public good. 
 
