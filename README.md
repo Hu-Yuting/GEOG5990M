@@ -25,18 +25,18 @@ Households with no cars or vans usually rely more on public transportation. Iden
       - Leeds_MSOA_bus_use.csv
       - leeds_msoa_boundaries.geojson
 
-# Main variables
+## Main variables
 The project focuses on two variables:
    - No-car households percentage: the percentage of households with no cars or vans in each Leeds MSOA
    - Bus use percentage: the percentage of people using bus, minibus or coach for commuting in each Leeds MSOA
 
-# Required packages
+## Required packages
   - pandas
   - geopandas
   - matplotlib
   - seaborn
 
-# Main steps
+## Main steps
   1. Read in the two attribute datasets (Leeds_MSOA_no_car_households and Leeds_MSOA_bus_use)
   2. Explore and clean the data by removing empty rows, renaming columns, and retaining useful variables
   3. Use visualisation to check the distributions of the variables
@@ -47,11 +47,15 @@ The project focuses on two variables:
   8. Visualisations
   9. Interpret the spatial pattern and the relationship
 
-# The final outputs:
+## The final outputs
   - A choropleth map: showing the distribution of households with no cars or vans in Leeds MSOAs
   - A scatterplot: showing the relationship between public transportation usage and no-car households in Leeds MSOAs
 
-# How to run the notebook
+## The results
+  1. No-car households in Leeds show an uneven distribution, with a high percentage in the central areas and a low percentage in the outer areas. 
+  2. The areas with a high percentage of no-car households usually rely more on public transportation.
+
+## How to run the notebook
   1. Open the notebook in Google Colab
   2. Make sure the required files are available in the repository, and the large boundary file is accessible in Google Drive 
   3. Run the notebook from top to bottom
