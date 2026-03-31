@@ -52,8 +52,8 @@ The project focuses on two variables:
   - A scatterplot: showing the relationship between public transportation usage and no-car households in Leeds MSOAs
 
 ## The results
-  1. No-car households in Leeds show an uneven distribution, with a high percentage in the central areas and a low percentage in the outer areas. 
-  2. The areas with a high percentage of no-car households usually rely more on public transportation.
+  -  No-car households in Leeds show an uneven distribution, with a high percentage in the central areas and a low percentage in the outer areas.
+  -  The areas with a high percentage of no-car households usually rely more on public transportation.
 
 ## How to run the notebook
   1. Open the notebook in Google Colab
