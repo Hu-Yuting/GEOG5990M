@@ -7,15 +7,23 @@ Households with no cars or vans usually rely more on public transportation. Iden
 
 ## Data sources
 ### Nomis Census data (https://www.nomisweb.co.uk):
-       - Leeds_MSOA_no_car_households (https://www.nomisweb.co.uk/datasets/c2021ts045)
+#### Dataset 1: Car or van availability (https://www.nomisweb.co.uk/datasets/c2021ts045)
+      - the number of households with no cars or vans
+      - the percentage of households with no cars or vans
 
-         providing the number and percentage of households with no cars or vans
-       - Leeds_MSOA_bus_use (https://www.nomisweb.co.uk/datasets/c2021ts061)
-   
-         providing the number and percentage of people commuting using "bus, minibus or coach"
+#### Dataset 2: Method used to travel to work (https://www.nomisweb.co.uk/datasets/c2021ts061)
+      - the number of people commuting using "bus, minibus or coach"
+      - the percentage of people commuting using "bus, minibus or coach"
 
 ### ONS Geoportal:
-       - 2021 MSOA boundary data (stored in Google Drive)
+#### Dataset 3:  2021 MSOA boundary data (stored in Google Drive)
+      - join attribute data and the spatial data
+      - create a spatial distribution map of Leeds MSOA
+
+## Data in GitHub repository
+      - Leeds_MSOA_no_car_households.csv
+      - Leeds_MSOA_bus_use.csv
+      - leeds_msoa_boundaries.geojson
 
 # Main variables
 The project focuses on two variables:
