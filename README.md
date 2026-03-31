@@ -44,8 +44,9 @@ The project focuses on two variables:
   5. Read in the MSOA boundary file
   6. Subset the boundary data to Leeds MSOAs
   7. Join the attribute data to the boundary data
-  8. Visualisations
-  9. Interpret the spatial pattern and the relationship
+  8. Exploratory analysis
+  9. Spatial visualization and non-spatial visualization
+  10. Interpret the spatial pattern and the relationship
 
 ## The final outputs
   - A choropleth map: showing the distribution of households with no cars or vans in Leeds MSOAs
