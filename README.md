@@ -2,7 +2,8 @@
 # The relationship between no-car households and public transportation usage in Leeds
 # Project overview
 The project aims to identify the spatial distribution of no-car households in Leeds, and the relationship between no-car households and public transportation usage across Leeds Middle Layer Super Output Areas (MSOA). The analysis joins the open Census attribute data with the spatial boundary data to produce a spatial and a non-spatial visualisation map.
-The project is of significant public good. Households with no cars or vans usually rely more on public transportation. Identifying the spatial distribution of no-car households and analyzing the relationship can help understand the differences in transportation demands among different areas within the city. It can also provide a more detailed reference for allocating transportation resource and planning public service.
+
+Households with no cars or vans usually rely more on public transportation. Identifying the spatial distribution of no-car households and analyzing the relationship can help understand the differences in transportation demands among different areas within the city. It can also provide a more detailed reference for allocating transportation resource and planning public service, which is of significant public good. 
 
 # Data sources
 Nomis Census data (https://www.nomisweb.co.uk):
